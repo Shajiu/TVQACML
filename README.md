@@ -1,5 +1,5 @@
 # TVQACML
-TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages
+
 [🤗 TVQACML](https://huggingface.co/shajiu/Qwen2-VL-7B-CML-SFT) | [📖 Paper](https://arxiv.org) | [🏆 TvqaCmlBench](https://huggingface.co/datasets/shajiu/TvqaCmlBench)
 
 **TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages** (EMNLP 2025 Main Conference) <br>
