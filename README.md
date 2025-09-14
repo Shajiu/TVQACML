@@ -29,3 +29,18 @@ Text-Centric Visual Question Answering (TEC-VQA) serves as a key benchmark for e
   <br>
   <sub><em>The construction pipeline of the TVQACML Benchmark.</em></sub>
 </p>
+
+
+
+
+If you find KRETA useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{hwang2025kreta,
+  title={TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages},
+  author={Jiu Sha, Yu Weng, Mengxiao Zhu, Chong Feng, Zheng Liu, Lama Jie},
+  journal={arXiv preprint arXiv:},
+  year={2025}
+}
+```
+
+
