@@ -16,16 +16,16 @@ Text-Centric Visual Question Answering (TEC-VQA) serves as a key benchmark for e
 
 
 <p align="center">
-  <img src="https://github.com/Shajiu/TVQACML/blob/main/assets/statistics_1.png" width="100%" />
+  <img src="https://github.com/Shajiu/TVQACML/blob/main/assets/examples_2.png" width="100%" />
   <br>
-  <sub><em>Overall performance of MLLMs on the TVQACML benchmark.</em></sub>
+  <sub><em>TVQACML examples sampled from each languages. The English version in parentheses.</em></sub>
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://github.com/Shajiu/TVQACML/blob/main/assets/statistics_1.png" width="100%" />
+  <img src="https://github.com/Shajiu/TVQACML/blob/main/assets/construction_3.png" width="100%" />
   <br>
-  <sub><em>Overall performance of MLLMs on the TVQACML benchmark.</em></sub>
+  <sub><em>The construction pipeline of the TVQACML Benchmark.</em></sub>
 </p>
