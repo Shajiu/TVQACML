@@ -43,4 +43,11 @@ If you find KRETA useful for your research and applications, please cite using t
 }
 ```
 
+## Licence
 
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+## Bias, Risks, and Limitations
+Use of this dataset is entirely at your own discretion and risk. We make no guarantees regarding its accuracy or reliability. The dataset is provided “as is,” without any warranties or representations of any kind—whether express, implied, statutory, or otherwise. This includes, but is not limited to, implied warranties of quality, performance, merchantability, fitness for a particular purpose, non-infringement, accuracy, or the absence of defects or errors (known or unknown).
+We expressly disclaim all liability under any legal theory, including negligence, for any direct, indirect, incidental, special, consequential, punitive, or exemplary losses, costs, or damages that may arise from the use of this dataset or this license. To the fullest extent permitted by law, the foregoing disclaimers and limitations of liability shall be interpreted as an absolute waiver of all warranties and liabilities.
