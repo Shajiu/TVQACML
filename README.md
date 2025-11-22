@@ -1,6 +1,6 @@
 # TVQACML
 
-[🤗 TVQACML](https://huggingface.co/shajiu/Qwen2-VL-7B-CML-SFT) | [📖 Paper](https://arxiv.org) | [🏆 TVQACMLBench](https://huggingface.co/datasets/shajiu/TvqaCmlBench)
+[🤗 TVQACML](https://huggingface.co/shajiu/Qwen2-VL-7B-CML-SFT) | [📖 Paper](https://aclanthology.org/2025.emnlp-main.705/) | [🏆 TVQACMLBench](https://huggingface.co/datasets/shajiu/TvqaCmlBench)
 
 **TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages** (EMNLP 2025 Main Conference) <br>
 The code is being prepared and is pending company approval.
